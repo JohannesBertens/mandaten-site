@@ -1,2 +1,2 @@
 # mandaten-site
-Mandaten site
+Placeholder site for mandaten.nl

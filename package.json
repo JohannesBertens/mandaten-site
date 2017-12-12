@@ -1,0 +1,25 @@
+{
+  "name": "clear-energy-placeholder",
+  "version": "1.0.0",
+  "description": "Placeholder site for clear-energy.nl",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJBnjack/clear-energy-placeholder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DJBnjack/clear-energy-placeholder/issues"
+  },
+  "homepage": "https://github.com/DJBnjack/clear-energy-placeholder#readme",
+  "dependencies": {
+    "connect": "^3.5.0",
+    "nodemon": "^1.11.0",
+    "serve-static": "^1.11.2"
+  }
+}
